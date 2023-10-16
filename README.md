@@ -1,3 +1,3 @@
 # GIS3
 
-tugas GIS minggu 2
+tugas GIS minggu 3
