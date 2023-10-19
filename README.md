@@ -1,3 +1,3 @@
 # GIS3
 
-test lek
+tugas GIS minggu 3
